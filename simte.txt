@@ -1,0 +1,19 @@
+chibai,안녕하세요
+chibai,안녕
+inn,집
+vuuhkhal,얼음
+guah,비
+nga,물고기
+pa,아빠
+huih,공기
+lennaphual,공항
+laam,춤
+lauhuai,위험
+mial,어둠
+asita,죽음
+baih,빨리
+tai,달리다
+ka min,제 이름은
+ahi,입니다
+ka min A ahi,제 이름은 A 입니다
+ka min B ahi,제 이름은 B 입니다
