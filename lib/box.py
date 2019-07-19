@@ -24,8 +24,7 @@ class classBox(config.classConfig):
         self.src, self.tar = self.pre.readLanguageFile()
         self.words = self.pre.oneData(self.src, self.tar)
         self.wordToIndex, self.indexToWord = self.pre.indexingData(self.words)
-        # self.max_len = max([len(line) for line in self.words])
-        self.max_len = 30  # exaple2.py 와 크기를 맞추기 위해서 적용..
+        self.max_len = max([len(line) for line in self.words])
         self.wordsSize = len(self.words)
 
         self.xEncoder = self.pre.convertTextToIndex(self.src, self.wordToIndex, self.pre.ENCODER_INPUT,
