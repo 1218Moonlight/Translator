@@ -25,5 +25,5 @@ sun ann ne ta maw?,점심 먹었어요?
 ne nai low,아니요
 kei toh i ne khom diai?,같이 먹을래요?
 sun ann ka neh ngei khol louh,점심을 잘 안먹어요
-aw, sun ann ka neh khit chia jung kit ning awle,그럼 저는 점심먹고 올게요
+aw sun ann ka neh khit chia jung kit ning awle,그럼 저는 점심먹고 올게요
 awle,네
