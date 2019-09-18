@@ -1,5 +1,5 @@
-chibai,안녕하세요
-chibai,안녕
+chibai,안녕하세요(악수)
+chibai,안녕(악수)
 inn,집
 vuuhkhal,얼음
 guah,비
@@ -17,3 +17,13 @@ ka min,제 이름은
 ahi,입니다
 ka min A ahi,제 이름은 A 입니다
 ka min B ahi,제 이름은 B 입니다
+hello,안녕하세요
+hello,안녕
+i'm glad to meet you,만나서 방갑습니다
+so do i,저도요
+sun ann ne ta maw?,점심 먹었어요?
+ne nai low,아니요
+kei toh i ne khom diai?,같이 먹을래요?
+sun ann ka neh ngei khol louh,점심을 잘 안먹어요
+aw, sun ann ka neh khit chia jung kit ning awle,그럼 저는 점심먹고 올게요
+awle,네
