@@ -6,7 +6,7 @@ class classConfig:
 
         # 언어 데이터 사용 범위(크기)
         # 言語DATAの使用範囲（SIZE）
-        self.USE_DATA_COUNT = 19
+        self.USE_DATA_COUNT = 29
 
         self.MODEL_FILE_PATH = './testModel.h5'
 
