@@ -2,12 +2,12 @@ from setuptools import setup, find_packages
 
 setup_requires = []
 
-# conda install tensorflow
 install_requires = [
     # 'django==1.6b4',
     'numpy',
     'pandas',
-    'keras'
+    'keras',
+    'tensorlow'
 ]
 
 dependency_links = [
